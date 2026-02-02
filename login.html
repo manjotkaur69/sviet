@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SVIET Login</title>
+  <style>
+    body { font-family: Arial; max-width: 400px; margin: 50px auto; padding: 20px; }
+    input, button { padding: 10px; margin: 5px; width: 100%; }
+    button { background: #007bff; color: white; border: none; cursor: pointer; }
+  </style>
+</head>~
+<body>
+  <h2>🎓 SVIET Student Login</h2>
+  <p>Enter your Admission Number/Roll Number</p>
+  
+  <input type="text" id="roll" placeholder="Example: 2025BTCS001">
+  <button onclick="login()">Login</button>
+  
+  <p id="message" style="color:red;"></p>
+
+  <script>
+    function login() {
+      const roll = document.getElementById("roll").value.trim();
+      if (!roll) {
+        document.getElementById("message").innerText = "Please enter roll number";
+        return;
+      }
+      
+      // Test if server is reachable first
+      fetch('http://localhost:3000/student/' + roll)
+        .then(res => res.json())
+        .then(data => {
+          if (data.success) {
+            localStorage.setItem("roll", roll);
+            localStorage.setItem("student", JSON.stringify(data.student));
+            window.location.href = "chat.html";
+          } else {
+            document.getElementById("message").innerText = "Student not found. Try: 2025BTCS2025";
+          }
+        })
+        .catch(err => {
+          document.getElementById("message").innerText = "Server not running. Start backend first!";
+        });
+    }
+  </script>
+</body>
+</html> 
+

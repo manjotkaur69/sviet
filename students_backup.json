@@ -1,0 +1,380 @@
+[
+  {
+    "roll": "2025BTCI2025",
+    "name": "Btci001andreas Dumezweni Moyochem11",
+    "program": "BTCI",
+    "section": "CIVIL",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTEE2025",
+    "name": "Btee001leo Kativhuchem12 13",
+    "program": "BTEE",
+    "section": "CIVIL",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTME2025",
+    "name": "Btme001 Gindeel Abdelrazig",
+    "program": "BTME",
+    "section": "CIVIL",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED003",
+    "name": "Dhruv Jainphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED006",
+    "name": "Naleswar Bordoloiphy 51 52025btced2025btced011manyaphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED011",
+    "name": "Manyaphy 51 62025btced2025btced013lakshdeep Patelphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED013",
+    "name": "Lakshdeep Patelphy 51 72025btced2025btced014parambrata Barmanphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED014",
+    "name": "Parambrata Barmanphy 51 82025btced2025btced038harshit Bindalphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED038",
+    "name": "Harshit Bindalphy 51 92025btced2025btced046lucky Kumarphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED046",
+    "name": "Lucky Kumarphy 51 102025btced2025btced050indrakshi Kumariphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED050",
+    "name": "Indrakshi Kumariphy 51 112025btced2025btced053divyanshu Pandeyphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED053",
+    "name": "Divyanshu Pandeyphy 51 122025btced2025btced056krishna Kumar Gopephy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED056",
+    "name": "Krishna Kumar Gopephy 51 132025btced2025btced058vivekphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED058",
+    "name": "Vivekphy 51 142025btced2025btced062aniket Sinhaphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED062",
+    "name": "Aniket Sinhaphy 51 152025btced2025btced063muskanphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED063",
+    "name": "Muskanphy 51 162025btced2025btced066kumar Utkarshphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED066",
+    "name": "Kumar Utkarshphy 51 172025btced2025btced074sarthak Royphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED074",
+    "name": "Sarthak Royphy 51 182025btced2025btced076samudra Bosephy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED076",
+    "name": "Samudra Bosephy 51 192025btced2025btced077satadru Majumdarphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED077",
+    "name": "Satadru Majumdarphy 51 202025btced2025btced093anuj Kumarphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED093",
+    "name": "Anuj Kumarphy 51 212025btced2025btced096nihal Kumar Deophy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED096",
+    "name": "Nihal Kumar Deophy 51 222025btced2025btced097suhani Guptaphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED097",
+    "name": "Suhani Guptaphy 51 232025btced2025btced110ankit Dayalphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED110",
+    "name": "Ankit Dayalphy 51 242025btced2025btced112harmanjot Singhphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED112",
+    "name": "Harmanjot Singhphy 51 252025btced2025btced115vinamra Dubeyphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED115",
+    "name": "Vinamra Dubeyphy 51 262025btced2025btced120harshitaphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED120",
+    "name": "Harshitaphy 51 272025btced2025btced128saloni Patyalaphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED128",
+    "name": "Saloni Patyalaphy 51 282025btced2025btced129nitish Kumarphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED129",
+    "name": "Nitish Kumarphy 51 292025btced2025btced141eklavya Sinhaphy 51",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED141",
+    "name": "Eklavya Sinhaphy 51 302025btced2025btced142harshit Rajphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED142",
+    "name": "Harshit Rajphy 52 312025btced2025btced163deo Pratimphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED163",
+    "name": "Deo Pratimphy 52 322025btced2025btced166aditi Kumariphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED166",
+    "name": "Aditi Kumariphy 52 332025btced2025btced168alisha Sharmaphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED168",
+    "name": "Alisha Sharmaphy 52 342025btced2025btced175deepak Kumarphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED175",
+    "name": "Deepak Kumarphy 52 352025btced2025btced176pratik Kumar Singhphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED176",
+    "name": "Pratik Kumar Singhphy 52 362025btced2025btced189sneha Kumariphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED189",
+    "name": "Sneha Kumariphy 52 372025btced2025btced200abhijeet Kumar Thakurphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED200",
+    "name": "Abhijeet Kumar Thakurphy 52 382025btced2025btced204arushi Sinhaphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED204",
+    "name": "Arushi Sinhaphy 52 392025btced2025btced205anshu Kumariphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED205",
+    "name": "Anshu Kumariphy 52 402025btced2025btced208khushi Kumariphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED208",
+    "name": "Khushi Kumariphy 52 412025btced2025btced210priya Kumariphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED210",
+    "name": "Priya Kumariphy 52 422025btced2025btced211sujal Kumarphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED211",
+    "name": "Sujal Kumarphy 52 432025btced2025btced219nidhi Yadavphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED219",
+    "name": "Nidhi Yadavphy 52 Report Generated By Enas1271 On 22 Jan 2026 12 03 06 Pm",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED221",
+    "name": "Naina Jaiprakashphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED223",
+    "name": "Abhinav Guptaphy 52 462025btced2025btced224abhishek Mishraphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED224",
+    "name": "Abhishek Mishraphy 52 472025btced2025btced226jahnavi Sharmaphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED226",
+    "name": "Jahnavi Sharmaphy 52 482025btced2025btced232sahajpreet Kaurphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED232",
+    "name": "Sahajpreet Kaurphy 52 492025btced2025btced249sudipta Chatterjeephy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED249",
+    "name": "Sudipta Chatterjeephy 52 502025btced2025btced259aditya Mishraphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED259",
+    "name": "Aditya Mishraphy 52 512025btced2025btced265raj Kesarwaniphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED265",
+    "name": "Raj Kesarwaniphy 52 522025btced2025btced266pragati Kesherwaniphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCED266",
+    "name": "Pragati Kesherwaniphy 52 532025btced2025btced267aakash Kumarphy 52",
+    "program": "UNKNOWN",
+    "section": "CSD",
+    "group": "UNKNOWN"
+  },
+  {
+    "roll": "2025BTCS2025",
+    "name": "Btcs002sanjanaphy11",
+    "program": "BTCS",
+    "section": "CSE-A",
+    "group": "UNKNOWN"
+  }
+]

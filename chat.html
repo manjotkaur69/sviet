@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SVIET Chatbot</title>
+  <style>
+    body { font-family: Arial; max-width: 600px; margin: 20px auto; padding: 20px; }
+    #chatbox { border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: scroll; margin: 10px 0; }
+    .user { color: blue; text-align: right; }
+    .bot { color: green; }
+    input, button { padding: 10px; margin: 5px 0; }
+    input { width: 70%; }
+    button { width: 25%; background: #28a745; color: white; border: none; }
+  </style>
+</head>
+<body>
+  <h2>🤖 SVIET Student Assistant</h2>
+  <div id="studentInfo"></div>
+  
+  <div id="chatbox"></div>
+  
+  <input type="text" id="question" placeholder="Ask: What is my 3rd period on Monday?">
+  <button onclick="ask()">Send</button>
+  
+  <p style="font-size: 12px; color: #666;">
+    Try: "Monday timetable", "4th period Tuesday", "What's my schedule today?"
+  </p>
+
+  <script>
+    // Load student info
+    const student = JSON.parse(localStorage.getItem("student") || "{}");
+    document.getElementById("studentInfo").innerHTML = `
+      <strong>${student.name || "Student"}</strong> | 
+      Roll: ${student.roll || "N/A"} | 
+      Section: ${student.section || "N/A"}
+    `;
+    
+    function addMessage(text, sender) {
+      const chatbox = document.getElementById("chatbox");
+      const msg = document.createElement("div");
+      msg.className = sender;
+      msg.innerHTML = `<strong>${sender}:</strong> ${text}`;
+      chatbox.appendChild(msg);
+      chatbox.scrollTop = chatbox.scrollHeight;
+    }
+
+    async function ask() {
+      const question = document.getElementById("question").value.trim();
+      const roll = localStorage.getItem("roll");
+      
+      if (!question) return;
+      
+      addMessage(question, "You");
+      document.getElementById("question").value = "";
+      
+      try {
+        const res = await fetch("http://localhost:3000/chat", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ roll, question })
+        });
+        
+        const data = await res.json();
+        if (data.success) {
+          addMessage(data.reply, "Bot");
+        } else {
+          addMessage("❌ " + data.reply, "Bot");
+        }
+      } catch (err) {
+        addMessage("❌ Server error. Make sure backend is running!", "Bot");
+      }
+    }
+    
+    // Press Enter to send
+    document.getElementById("question").addEventListener("keypress", function(e) {
+      if (e.key === "Enter") ask();
+    });
+  </script>
+</body>
+</html> 

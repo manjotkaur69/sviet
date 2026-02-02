@@ -1,0 +1,418 @@
+{
+  "CSE-A": {
+    "Monday": {
+      "1": "PHYSICS LAB",
+      "2": "FREE",
+      "3": "BEE",
+      "4": "PHYSICS",
+      "5": "BREAK",
+      "6": "MPD",
+      "7": "MATH",
+      "8": "PHYSICS"
+    },
+    "Tuesday": {
+      "1": "BEE",
+      "2": "MATH",
+      "3": "BEE",
+      "4": "EMC",
+      "5": "FREE",
+      "6": "ED",
+      "7": "FREE",
+      "8": "FREE"
+    },
+    "Wednesday": {
+      "1": "BEE",
+      "2": "MATH",
+      "3": "TT",
+      "4": "PHYSICS",
+      "5": "FREE",
+      "6": "PHYSICS",
+      "7": "BEE LAB",
+      "8": "FREE"
+    },
+    "Thursday": {
+      "1": "BEE",
+      "2": "ED",
+      "3": "FREE",
+      "4": "FREE",
+      "5": "FREE",
+      "6": "MATH",
+      "7": "PHYSICS",
+      "8": "SOFTSKILL"
+    },
+    "Friday": {
+      "1": "BEE",
+      "2": "MATH",
+      "3": "PHYSICS",
+      "4": "SOFTSKILL",
+      "5": "FREE",
+      "6": "MATH",
+      "7": "TT",
+      "8": "EMC"
+    }
+  },
+  "CSE-B": {
+    "Monday": {
+      "1": "MATH",
+      "2": "TT",
+      "3": "BEE",
+      "4": "TT",
+      "5": "BREAK",
+      "6": "MATH",
+      "7": "PHYSICS LAB",
+      "8": "FREE"
+    },
+    "Tuesday": {
+      "1": "BEE",
+      "2": "ED",
+      "3": "FREE",
+      "4": "FREE",
+      "5": "FREE",
+      "6": "PHYSICS",
+      "7": "BEE",
+      "8": "MPD"
+    },
+    "Wednesday": {
+      "1": "BEE LAB",
+      "2": "FREE",
+      "3": "MATH",
+      "4": "PHYSICS",
+      "5": "FREE",
+      "6": "ED",
+      "7": "FREE",
+      "8": "FREE"
+    },
+    "Thursday": {
+      "1": "MATH",
+      "2": "PHYSICS",
+      "3": "BEE",
+      "4": "PHYSICS",
+      "5": "FREE",
+      "6": "SOFTSKILL",
+      "7": "EMC",
+      "8": "MATH"
+    },
+    "Friday": {
+      "1": "MATH",
+      "2": "EMC",
+      "3": "BEE",
+      "4": "PHYSICS",
+      "5": "FREE",
+      "6": "BEE",
+      "7": "SOFTSKILL",
+      "8": "PHYSICS"
+    }
+  },
+  "CSE-C": {
+    "Monday": {
+      "1": "BEE",
+      "2": "PHYSICS",
+      "3": "BEE",
+      "4": "MATH",
+      "5": "BREAK",
+      "6": "ED",
+      "7": "FREE",
+      "8": "FREE"
+    },
+    "Tuesday": {
+      "1": "BEE LAB",
+      "2": "FREE",
+      "3": "PHYSICS",
+      "4": "MATH",
+      "5": "FREE",
+      "6": "PHYSICS",
+      "7": "BEE",
+      "8": "EMC"
+    },
+    "Wednesday": {
+      "1": "MATH",
+      "2": "PHYSICS",
+      "3": "BEE",
+      "4": "MATH",
+      "5": "FREE",
+      "6": "EMC",
+      "7": "MPD",
+      "8": "TT"
+    },
+    "Thursday": {
+      "1": "TT",
+      "2": "SOFTSKIILL",
+      "3": "BEE",
+      "4": "MATH",
+      "5": "FREE",
+      "6": "PHYSICS",
+      "7": "BEE LAB",
+      "8": "FREE"
+    },
+    "Friday": {
+      "1": "PHYSICS",
+      "2": "SOFTSKIILL",
+      "3": "BEE",
+      "4": "MATH",
+      "5": "FREE",
+      "6": "ED",
+      "7": "FREE",
+      "8": "FREE"
+    }
+  },
+  "CSE-D": {
+    "Monday": {
+      "1": "PHYSICS",
+      "2": "MATH",
+      "3": "EMC",
+      "4": "MATH",
+      "5": "BREAK",
+      "6": "BEE",
+      "7": "PHYSICS",
+      "8": "BEE"
+    },
+    "Tuesday": {
+      "1": "EMC",
+      "2": "TT",
+      "3": "BEE",
+      "4": "MATH",
+      "5": "FREE",
+      "6": "BEE",
+      "7": "MPD",
+      "8": "PHYSICS"
+    },
+    "Wednesday": {
+      "1": "PHYSICS",
+      "2": "ED",
+      "3": "FREE",
+      "4": "FREE",
+      "5": "FREE",
+      "6": "BEE",
+      "7": "MATH",
+      "8": "SOFTSKILL"
+    },
+    "Thursday": {
+      "1": "BEE LAB",
+      "2": "FREE",
+      "3": "PHYSICS",
+      "4": "TT",
+      "5": "FREE",
+      "6": "ED",
+      "7": "FREE",
+      "8": "FREE"
+    },
+    "Friday": {
+      "1": "BEE",
+      "2": "MATH",
+      "3": "PHYSICS",
+      "4": "MATH",
+      "5": "FREE",
+      "6": "SOFTSKILL",
+      "7": "BEE LAB",
+      "8": "FREE"
+    }
+  },
+  "CSD": {
+    "Monday": {
+      "1": "BEE",
+      "2": "ED",
+      "3": "FREE",
+      "4": "FREE",
+      "5": "BREAK",
+      "6": "PHYSICS",
+      "7": "FREE",
+      "8": "FREE"
+    },
+    "Tuesday": {
+      "1": "PHYSICS",
+      "2": "MATH",
+      "3": "BEE",
+      "4": "MATH",
+      "5": "FREE",
+      "6": "PHYSICS",
+      "7": "FREE",
+      "8": "FREE"
+    },
+    "Wednesday": {
+      "1": "EMC",
+      "2": "MATH",
+      "3": "PHYSICS",
+      "4": "BEE",
+      "5": "FREE",
+      "6": "BEE",
+      "7": "FREE",
+      "8": "FREE"
+    },
+    "Thursday": {
+      "1": "BEE",
+      "2": "MATH",
+      "3": "PHYSICS",
+      "4": "BEE",
+      "5": "FREE",
+      "6": "MATH",
+      "7": "FREE",
+      "8": "FREE"
+    },
+    "Friday": {
+      "1": "MATH",
+      "2": "ED",
+      "3": "FREE",
+      "4": "FREE",
+      "5": "FREE",
+      "6": "PHYSICS",
+      "7": "FREE",
+      "8": "FREE"
+    }
+  },
+  "CIVIL/ME/EE": {
+    "Monday": {
+      "1": "Workshop",
+      "2": "FREE",
+      "3": "FREE",
+      "4": "FREE",
+      "5": "BREAK",
+      "6": "PPS",
+      "7": "TT",
+      "8": "CHEMISTRY"
+    },
+    "Tuesday": {
+      "1": "CHEMISTRY",
+      "2": "MATH",
+      "3": "PPS",
+      "4": "ENGLISH",
+      "5": "FREE",
+      "6": "TT",
+      "7": "Chemistry Lab",
+      "8": "FREE"
+    },
+    "Wednesday": {
+      "1": "PPS Lab",
+      "2": "FREE",
+      "3": "SOFTSKILL",
+      "4": "PPS",
+      "5": "FREE",
+      "6": "MATH",
+      "7": "CHEMISTRY",
+      "8": "MPD"
+    },
+    "Thursday": {
+      "1": "CHEMISTRY",
+      "2": "MATH",
+      "3": "ENGLISH",
+      "4": "CHEMISTRY",
+      "5": "FREE",
+      "6": "MATH",
+      "7": "ENGLISH LAB",
+      "8": "FREE"
+    },
+    "Friday": {
+      "1": "CHEMISTRY",
+      "2": "MATH",
+      "3": "PPS",
+      "4": "ENGLISH",
+      "5": "FREE",
+      "6": "MATH",
+      "7": "SOFTSKILL",
+      "8": "CHEMISTRY"
+    }
+  },
+  "B.TECH AI": {
+    "Monday": {
+      "1": "CHEMISTRY",
+      "2": "MATH",
+      "3": "PPS",
+      "4": "SOFTSKILL",
+      "5": "BREAK",
+      "6": "MATH",
+      "7": "CHEMISTRY LAB",
+      "8": "FREE"
+    },
+    "Tuesday": {
+      "1": "CHEMISTRY",
+      "2": "ENGLISH",
+      "3": "TT",
+      "4": "PPS",
+      "5": "FREE",
+      "6": "CHEMISTRY",
+      "7": "MATH",
+      "8": "MPD"
+    },
+    "Wednesday": {
+      "1": "CHEMISTRY",
+      "2": "SOFTSKILL",
+      "3": "CHEMISTRY",
+      "4": "TT",
+      "5": "FREE",
+      "6": "CHEMISTRY",
+      "7": "ENGLISH LAB",
+      "8": "FREE"
+    },
+    "Thursday": {
+      "1": "PPS LAB",
+      "2": "FREE",
+      "3": "ENGLISH",
+      "4": "MATH",
+      "5": "FREE",
+      "6": "CHEMISTRY",
+      "7": "PPS",
+      "8": "MATH"
+    },
+    "Friday": {
+      "1": "Workshop",
+      "2": "FREE",
+      "3": "FREE",
+      "4": "FREE",
+      "5": "FREE",
+      "6": "PPS",
+      "7": "MATH",
+      "8": "ENGLISH"
+    }
+  },
+  "DIPLOMA": {
+    "Monday": {
+      "1": "MATH",
+      "2": "ENGLISH",
+      "3": "BEE",
+      "4": "PHYSICS LAB",
+      "5": "BREAK",
+      "6": "Chemistry",
+      "7": "EMC",
+      "8": "BEE"
+    },
+    "Tuesday": {
+      "1": "MATH",
+      "2": "PHYSICS",
+      "3": "Chemistry",
+      "4": "Chemistry",
+      "5": "FREE",
+      "6": "BEE LAB",
+      "7": "MPD",
+      "8": "EMC"
+    },
+    "Wednesday": {
+      "1": "ENGLISH LAB",
+      "2": "FREE",
+      "3": "DIPLOMA CSE",
+      "4": "FREE",
+      "5": "FREE",
+      "6": "BEE LAB",
+      "7": "SOFTSKILL",
+      "8": "MATH"
+    },
+    "Thursday": {
+      "1": "WORKSHOP",
+      "2": "FEE",
+      "3": "Chemistry",
+      "4": "ENGLISH",
+      "5": "FREE",
+      "6": "PHYSICS",
+      "7": "COMPUTER WORKSHOP",
+      "8": "EVS"
+    },
+    "Friday": {
+      "1": "DTP LAB",
+      "2": "FREE",
+      "3": "Chemistry",
+      "4": "BEE",
+      "5": "FREE",
+      "6": "PHYSICS",
+      "7": "ENGLISH",
+      "8": "SOFTSKILL"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "SVIET Chatbot Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "extract": "node extractStudents.js",
+    "timetable": "node convertTimetable.js",
+    "setup": "npm run extract && npm run timetable && npm start",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "pdf-parse": "^1.1.4",
+    "xlsx": "^0.18.5"
+  }
+}
